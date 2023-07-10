@@ -6,7 +6,7 @@ const preciocombo2 = 3000
 
     while(nombre){
         alert( "Bienvenido a fritos "  + nombre);
-        let combo = prompt("Eliga su combo 1- Hambruguesa con papas mas una bebid 2- pancho xxl + bebida");
+        let combo = prompt("Elija su combo 1- Hambruguesa con papas mas una bebida 2- pancho xxl + bebida");
         
         switch(combo){
             case "1":
